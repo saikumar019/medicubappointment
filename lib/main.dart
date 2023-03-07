@@ -15,7 +15,7 @@ import 'intro.dart';
 import 'profile/registration_screen.dart';
 
 int? initScreen;
-// String? name;
+
 String? user;
 // String? isProfile;
 String? isSessionId;
